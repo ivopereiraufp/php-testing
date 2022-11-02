@@ -1,19 +1,19 @@
 {
-    "name": "zubair/php-testing",
+    "name": "ivoaspereira/php-testing",
     "type": "project",
     "require-dev": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9"
     },
     "license": "ISC",
     "autoload": {
         "psr-4": {
-            "Zubair\\PhpTesting\\": "src/"
+            "Ivoaspereira\\PhpTesting\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Zubs",
-            "email": "zubairidrisaweda@gmail.com"
+            "name": "Ivo Pereira",
+            "email": "ivopereira@ufp.edu.pt"
         }
     ]
 }
